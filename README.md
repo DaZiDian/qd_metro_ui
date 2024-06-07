@@ -10,7 +10,7 @@
 ### 本人与 青岛地铁集团有限公司 没有任何从属关系，仅限交流学习使用，禁止用于商业用途，最终解释权归青岛地铁集团有限公司所有。
 
 ### Qingdao Metro, Arrive unobstructed happiness.
-![LOGO](https://github.com/dazidian/qd_Metro_ui/Assets/113085496/e47c89e2-df3c-47CA-A9039A18BF03)
+![logo](https://github.com/DaZiDian/qd_metro_ui/assets/113085496/e47c89e2-df3c-47ca-9b31-a9039a18bf03)
 
 # What's this?
 This is a replica of the Qingdao Metro APP UI. It is based on the HarMonyOS NEXT platform and uses ARKUI and ARKTS to write code as a masterpiece of learning, hobbies, and communication.
