@@ -5,7 +5,7 @@
 
 # 这是什么？
 这是一个有关于青岛地铁APP UI的翻版制作，基于HarmonyOS NEXT平台打造，使用ArkUI及ArkTS书写代码，作为学习、爱好、交流的代表作。
-# 青岛欢迎您！好客山东欢迎您！游客建议选乘工具：青岛地铁！线网、建设规划等，详见![青岛地铁](http://www.qd-metro.com)官网。
+# 青岛欢迎您！好客山东欢迎您！游客建议选乘工具：青岛地铁！线网、建设规划等，详见青岛地铁官网。
 
 ### 本人与 青岛地铁集团有限公司 没有任何从属关系，仅限交流学习使用，禁止用于商业用途，最终解释权归青岛地铁集团有限公司所有。
 
@@ -14,6 +14,6 @@
 
 # What's this?
 This is a replica of the Qingdao Metro APP UI. It is based on the HarMonyOS NEXT platform and uses ARKUI and ARKTS to write code as a masterpiece of learning, hobbies, and communication.
-#! Welcome to Shandong! Visitors suggest to choose a tool: Qingdao Metro! Line network, construction planning, etc. For details! [Qingdao Metro] (http://www.qd-metro.com) official website.
+# Welcome to Shandong! Visitors suggest to choose a tool: Qingdao Metro! Line network, construction planning, etc. For details Qingdao Metro official website.
 
 ### I have no affiliated relationship with Qingdao Metro Group Co., Ltd., only to communicate and learn, and prohibit the use of commercial purposes. In the end, the right to interpret the right to return to Qingdao Metro Group Co., Ltd.
